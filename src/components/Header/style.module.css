@@ -1,3 +1,11 @@
 .header{
     color: black;
+    float: left;
+    position: relative;
+}
+.logo{
+    float: left;
+    position: relative;
+    height: 40%;
+    width: 30%;
 }
